@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Cedrikwesche
+- 👋 Hi, I’m @cedrikwesche
+- 👨‍🎓 Computer Science Student at the Leibniz University Hanover
 
-
-<!---
-Cedrikwesche/Cedrikwesche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
